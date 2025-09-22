@@ -28,8 +28,8 @@ url: "https://d4rpx1.github.io"
 github:
   username: d4rpx1 # change to your GitHub username
 
-#twitter:
-#  username: twitter_username # change to your Twitter username
+twitter:
+  username: d4rpx1 
 
 social:
   # Change to your full name.
@@ -40,6 +40,7 @@ social:
     # The first element serves as the copyright owner's link
     - https://www.linkedin.com/in/darius-pavelescu # change to your Twitter homepage
     - https://github.com/d4rpx1 # change to your GitHub homepage
+    - https://x.com/d4rpx1
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
